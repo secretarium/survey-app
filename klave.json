@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "slug": "survey-app",
+            "description": "Create and run survey while keeping all submitted data secret",
+            "version": "0.0.1",
+            "rootDir": "/apps/survey-app"
+        }
+    ]
+}
